@@ -10,7 +10,7 @@ macOS / OS X 10.5+ / Works great on Sierra! Developed and/or used on every Mac O
   
 ## Installation  
 
-Download or clone the file to `~/Library/Script Libraries`. If the `Script Libraries` folder doesn't exist, simply create it.
+Download or clone the file to `~/Library/Script Libraries`. If the `Script Libraries` folder doesn't exist in your library folder, simply create it.
   
   
 ## Usage  
