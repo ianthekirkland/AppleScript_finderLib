@@ -36,7 +36,7 @@ You can also cut to the chase by nesting functions.
 tell _finderLib to set _firstSelectedItemBasename to getBasenameOfItem( getFirstItem( getSelection( )))
 ```
 
-For a full list of all the functions, and to demonstrate the above, a starter script, [FinderLib_Quick_Start_File.scpt](https://github.com/ianthekirkland/AppleScript_finderLib/FinderLib_Quick_Start_File.scpt "FinderLib_Quick_Start_File.scpt"), is included. It contains a call to every subroutine/function in the library, so you can get a sense of what's available. In addition, all subroutines are listed below:
+For a full list of all the functions, and to demonstrate the above, a starter script in 2 formats, [Quick_Start_File (uncompiled)](https://github.com/ianthekirkland/AppleScript_finderLib/Quick_Start_File.applescript "Quick_Start_File") and [Quick_Start_File (compiled)](https://github.com/ianthekirkland/AppleScript_finderLib/Quick_Start_File.scpt "Quick_Start_File"), is included. It contains a call to every subroutine/function in the library, so you can get a sense of what's available. In addition, all subroutines are listed below:
 
 ```applescript  
 getSelection( )
